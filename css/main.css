@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../asset/bg5.gif");
+    background-size: 100vw 100vh;
+    /* background-color:#819751; */
+    overflow: hidden;
+}
